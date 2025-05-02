@@ -11,7 +11,7 @@ The **Intelligent Film Recommendation Engine** is a web-based platform that help
 - 📱 **Responsive UI** – Fully optimized for desktop and mobile devices.
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript   
 - **Backend:** Python (Flask/Django) or Node.js (if applicable)
 - **Database:** MySQL / MongoDB (for storing user preferences)
 - **Machine Learning:** Collaborative Filtering / Content-Based Filtering (for recommendations)
