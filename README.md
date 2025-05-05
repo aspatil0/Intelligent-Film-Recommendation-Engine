@@ -2,7 +2,7 @@
   
 ## 📌 Project Overview
 The **Intelligent Film Recommendation Engine** is a web-based platform that helps users discover movies based on their preferences. The system processes data from a dataset and applies recommendation algorithms to provide personalized movie suggestions, enhancing the overall movie-watching experience.
-
+  
 ## 🚀 Features
 - 🔍 **Movie Search & Filtering** – Find movies based on title, genre, and release year.
 - 🎭 **Personalized Recommendations** – Suggests movies based on user prefe rences and viewing history.   
