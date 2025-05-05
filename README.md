@@ -5,7 +5,7 @@ The **Intelligent Film Recommendation Engine** is a web-based platform that help
 
 ## 🚀 Features
 - 🔍 **Movie Search & Filtering** – Find movies based on title, genre, and release year.
-- 🎭 **Personalized Recommendations** – Suggests movies based on user preferences and viewing history.   
+- 🎭 **Personalized Recommendations** – Suggests movies based on user prefe rences and viewing history.   
 - 🌟 **Top-Rated & Upcoming Movies** – Displays trending and newly released films.
 - 📺 **TV Shows & Web Series** – Browse through popular TV shows and series.
 - 📱 **Responsive UI** – Fully optimized for desktop and mobile devices.
